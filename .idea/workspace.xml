@@ -1,32 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
-=======
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
       <artifact name="FinalModule3.src:Web exploded" />
     </artifacts-to-build>
   </component>
->>>>>>> 21de456 (adw)
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="acfe892a-d37f-4f16-9bb5-a669f7f925a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-=======
     <list default="true" id="acfe892a-d37f-4f16-9bb5-a669f7f925a4" name="Changes" comment="adw">
       <change afterPath="$PROJECT_DIR$/.idea/artifacts/FinalModule3_Web_exploded.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/artifacts/FinalModule3_main_Web_exploded.xml" afterDir="false" />
@@ -43,7 +25,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
->>>>>>> 21de456 (adw)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +36,6 @@
       <ProjectState />
     </projectState>
   </component>
-<<<<<<< HEAD
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="2q7JhasQtFTZ87wSPLjjHEcoOIp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-=======
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
@@ -106,23 +80,12 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
->>>>>>> 21de456 (adw)
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-<<<<<<< HEAD
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
-=======
     "Gradle.Build FinalModule3.executor": "Run",
     "Gradle.FinalModule3 [:Main.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -261,7 +224,6 @@
       </method>
     </configuration>
   </component>
->>>>>>> 21de456 (adw)
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -277,10 +239,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734007800509</updated>
-<<<<<<< HEAD
-      <workItem from="1734007801584" duration="34000" />
-    </task>
-=======
       <workItem from="1734007801584" duration="4959000" />
     </task>
     <task id="LOCAL-00001" summary="adw">
@@ -308,7 +266,6 @@
       <updated>1734008106879</updated>
     </task>
     <option name="localTasksCounter" value="4" />
->>>>>>> 21de456 (adw)
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,9 +276,6 @@
       <map>
         <entry key="MAIN">
           <value>
-<<<<<<< HEAD
-            <State />
-=======
             <State>
               <option name="FILTERS">
                 <map>
@@ -335,17 +289,13 @@
                 </map>
               </option>
             </State>
->>>>>>> 21de456 (adw)
           </value>
         </entry>
       </map>
     </option>
   </component>
-<<<<<<< HEAD
-=======
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adw" />
     <option name="LAST_COMMIT_MESSAGE" value="adw" />
   </component>
->>>>>>> 21de456 (adw)
 </project>
